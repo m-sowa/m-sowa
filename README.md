@@ -4,12 +4,10 @@
 
 After fifteen years of working in education, translations and administration, I decided to change my career path. Why testing? QA aligns with my passions and my personality. **Quality** has always been at the heart of my endeavors, so why not make it the focus of my professional life?
 
-:monocle_face: I've devoted the past months to study the basics of:
+:monocle_face: I'm currently studying the basics of:
 * manual testing, 
-* SQL, 
-* HTML/CSS, 
-* API testing,
+* SQL - see: [The Books Database](https://github.com/m-sowa/The-Books-Database), 
+* HTML/CSS - see: [My Portfolio Website](https://github.com/m-sowa/My-Portfolio-Website), 
+* API testing - see: [Simple API Testing Project](https://github.com/m-sowa/Simple-API-Testing-Project),
 * Python,
 * ISTQB Foundation Level.
-
-:hammer_and_wrench: This GitHub profile is brand new so it's currently **under construction**. Some content will appear in the near future.
