@@ -9,5 +9,5 @@ After fifteen years of working in education, translations and administration, I 
 * SQL - see: [The Books Database](https://github.com/m-sowa/The-Books-Database), 
 * HTML/CSS - see: [My Portfolio Website](https://github.com/m-sowa/My-Portfolio-Website), 
 * API testing - see: [Simple API Testing Project](https://github.com/m-sowa/Simple-API-Testing-Project),
-* Python,
+* Python - see: [Simple Python Exercises](https://github.com/m-sowa/Simple-Python-Exercises),
 * ISTQB Foundation Level.
